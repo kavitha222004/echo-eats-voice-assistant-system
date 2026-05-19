@@ -27,3 +27,19 @@ This project was developed during my Python Full Stack Development Internship at
 ⚡ Dynamic Web Application  
 📱 Responsive UI Design  
 🗄️ Database Connectivity  
+
+
+🛠️ Tech Stack
+
+## 💻 Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## ⚙️ Backend
+- Python
+- Django
+
+## 🗄️ Database
+- My Sql
