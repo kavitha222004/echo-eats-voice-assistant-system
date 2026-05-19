@@ -44,15 +44,4 @@ This project was developed during my Python Full Stack Development Internship at
 ## 🗄️ Database
 - My Sql
 
-# 📂 Project Structure
 
-```text
-ECHO_EATS_VOICE_ASSISTANT_DJANGO-main
-│
-├── Backend
-├── templates
-├── static
-├── screenshots
-├── manage.py
-├── requirements.txt
-└── README.md
