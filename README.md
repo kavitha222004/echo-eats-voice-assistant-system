@@ -2,7 +2,8 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/kavitha222004/echo-eats-voice-assistant-system/refs/heads/main/banner.png">
 
-🚀 About The Project
+
+# 🚀 About The Project
 
 Echo Eats is a modern and intelligent Voice Assisted Food Ordering System developed using Python Full Stack technologies and Django framework.
 
@@ -15,7 +16,9 @@ The application allows users to:
 
 This project was developed during my Python Full Stack Development Internship at QSpiders.
 
-✨ Features
+
+
+# ✨ Features
 
 🎙️ Voice Assistant Integration  
 🍔 Smart Food Ordering System  
