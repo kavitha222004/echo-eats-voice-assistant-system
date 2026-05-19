@@ -35,7 +35,7 @@ This project was developed during my Python Full Stack Development Internship at
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- React Js
 
 ## ⚙️ Backend
 - Python
