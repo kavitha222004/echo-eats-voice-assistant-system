@@ -29,7 +29,7 @@ This project was developed during my Python Full Stack Development Internship at
 🗄️ Database Connectivity  
 
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ## 💻 Frontend
 - HTML
