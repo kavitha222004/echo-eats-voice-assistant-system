@@ -44,4 +44,25 @@ This project was developed during my Python Full Stack Development Internship at
 ## 🗄️ Database
 - My Sql
 
+# 📂 Project Structure
+
+```text
+echo-eats-voice-assistant-system
+│
+├── Backend
+│   ├── manage.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── app
+│
+├── templates
+│
+├── static
+│
+├── screenshots
+│
+├── README.md
+│
+└── requirements.txt
+```
 
