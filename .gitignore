@@ -1,5 +1,36 @@
+<<<<<<< HEAD
 .env
 venv/
 __pycache__/
 *.pyc
 .DS_Store
+=======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Django
+db.sqlite3
+*.log
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+
+# Build Files
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+.DS_Store
+>>>>>>> 5e28f6130af629078a8c04c02b2c21f24318fe39
