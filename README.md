@@ -14,3 +14,13 @@ The application allows users to:
 ✅ Experience a responsive and user-friendly interface  
 
 This project was developed during my Python Full Stack Development Internship at QSpiders.
+
+✨ Features
+
+🎙️ Voice Assistant Integration  
+🍔 Smart Food Ordering System  
+🛒 Cart & Order Management  
+🔐 User Authentication  
+⚡ Dynamic Web Application  
+📱 Responsive UI Design  
+🗄️ Database Connectivity  
